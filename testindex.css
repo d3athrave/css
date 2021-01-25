@@ -4,3 +4,8 @@ By: Rave Kuro
 Css Ver. 1 */
 
 /*site main column*/
+/*body and html*/
+body, html{
+  margin:0;
+  padding:0;
+}
