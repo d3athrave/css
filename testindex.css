@@ -8,3 +8,11 @@ Css Ver. 1 */
 html, body{
   margin:0;
 }
+
+/*testing*/
+.testcolor{
+  background-color:red;
+  width:100%;
+  height:20px;
+  padding:0px;
+}
