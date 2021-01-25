@@ -13,6 +13,7 @@ html, body{
 .testcolor{
   background-color:red;
   width:100%;
-  height:20px;
+  height:1000px;
   padding:0px;
+  border:20px solid;
 }
